@@ -78,3 +78,5 @@ Once you see *Hello, world!* written in the bottom of the screen it means the se
 <p align="center">
     <image src="images/VSCodeNotTrustingMeMeme.png" width ="300px" />
 </p>
+
+Next topic: [How do Programming Languages Work](ProgrammingLanguages.md)

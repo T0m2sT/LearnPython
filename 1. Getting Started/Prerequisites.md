@@ -75,6 +75,8 @@ A notification will pop up asking you to choose the python interpreter. Choose t
 
 Once you see *Hello, world!* written in the bottom of the screen it means the setup is complete and you have all of the prerequisites necessary.
 
+Congratulations! You’ve just run your first program in Python!
+
 <p align="center">
     <image src="images/VSCodeNotTrustingMeMeme.png" width ="300px" />
 </p>

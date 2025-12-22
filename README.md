@@ -7,8 +7,8 @@ I have created this GitHub repository as a simple guide to help you learn the ba
 1. Getting Started
     * [Prerequisites](1.%20Getting%20Started/Prerequisites.md)
     * [How do Programming Languages Work](1.%20Getting%20Started/ProgrammingLanguages.md)
-    * Why Python
-    * The Interpreter
+    * [Why Python](1.%20Getting%20Started/WhyPython.md)
+    * [The Interpreter](1.%20Getting%20Started/TheInterpreter.md)
     * Hello World
 
 2. Variables and Basic Operations

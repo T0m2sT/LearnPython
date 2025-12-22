@@ -2,7 +2,9 @@
 
 You can access the python interpreter by either writing ```py``` on your terminal or opening the python 3.12 executable. You can find it by searching ```python``` on your windows search bar:
 
-![Python Executable](images/PythonExecutable.png)
+<p align="center">
+    <image src="images/PythonExecutable.png" width ="300px" />
+</p>
 
 After opening it up this is what you will see:
 

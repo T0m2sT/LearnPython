@@ -12,8 +12,8 @@ I have created this GitHub repository as a simple guide to help you learn the ba
     * [Hello World](1.%20Getting%20Started/HelloWorld.md)
 
 2. Variables and Basic Operations
-    * Variables
-    * Basic Data Types
+    * [Variables](2.%20Variables%20and%20Basic%20Operations/Variables.md)
+    * [Basic Data Types](2.%20Variables%20and%20Basic%20Operations/BasicDataTypes.md)
     * Arithmetic Operators
     * Important Functions
     * Comments

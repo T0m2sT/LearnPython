@@ -28,3 +28,5 @@ Its origin comes from an example program in the 1978 book ***The C Programming L
 <p align="center">
     <image src="images/The_C_Programming_Language.jpg" width ="300px" />
 </p>
+
+Next topic: [Variables](../2.%20Variables%20and%20Basic%20Operations/Variables.md)

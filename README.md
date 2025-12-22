@@ -14,7 +14,7 @@ I have created this GitHub repository as a simple guide to help you learn the ba
 2. Variables and Basic Operations
     * [Variables](2.%20Variables%20and%20Basic%20Operations/Variables.md)
     * [Basic Data Types](2.%20Variables%20and%20Basic%20Operations/BasicDataTypes.md)
-    * Arithmetic Operators
+    * [Arithmetic Operators](2.%20Variables%20and%20Basic%20Operations/ArithmeticOperators.md)
     * Important Functions
     * Comments
     * Exercises

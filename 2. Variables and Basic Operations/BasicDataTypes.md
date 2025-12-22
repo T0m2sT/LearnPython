@@ -135,7 +135,7 @@ Take this example:
 print(5/2) # Output: 2.5
 ```
 
-Despite using two integers, Python knows the output needs to be a float so it allows it and converts it automatically.
+Despite using two integers, Python knows the output needs to be a float so it allows and converts it automatically.
 
 Another example:
 

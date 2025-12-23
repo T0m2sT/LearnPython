@@ -17,7 +17,7 @@ I have created this GitHub repository as a simple guide to help you learn the ba
     * [Arithmetic Operators](2.%20Variables%20and%20Basic%20Operations/ArithmeticOperators.md)
     * [Important Functions](2.%20Variables%20and%20Basic%20Operations/ImportantFunctions.md)
     * [Comments](2.%20Variables%20and%20Basic%20Operations/Comments.md)
-    * Exercises
+    * [Exercises](2.%20Variables%20and%20Basic%20Operations/Exercises.md)
 
 3. Conditionals
     * Conditional Operators

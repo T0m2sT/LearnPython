@@ -22,7 +22,7 @@ Given two numbers, divide them and round the result to 2 decimal places.
 
 ## 3. Average Calculator
 
-Given three numbers, print their average rounded rounded to 1 decimal place.
+Given three numbers, print their average rounded to 1 decimal place.
 
 
 ## 4. Hypotenuse Calculator

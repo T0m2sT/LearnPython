@@ -1,0 +1,1 @@
+print(input("Write a string: ") * int(input("Write a number: ")))

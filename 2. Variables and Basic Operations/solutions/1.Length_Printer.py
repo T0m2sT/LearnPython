@@ -1,0 +1,1 @@
+print(len(input("Write a string: ")))

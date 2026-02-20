@@ -72,7 +72,7 @@ Example:
 | ------------ | ------------------------ |
 |      245     | 4 50 / 2 20 / 0 10 / 1 5 |
 |      356     | 7 50 / 0 20 / 0 10 / 1 5 |
-|   (cont.)    |   Remaining change: 1    |
+|    (cont.)   |   Remaining change: 1    |
 
 [Solution](solutions/8.Change.py)
 
@@ -87,6 +87,6 @@ Example:
 |     04:20    |     Wake-Up time: 22:27     |
 |     03:63    |     Wake-Up time: 22:10     |
 |     27:45    |     Wake-Up time: 21:52     |
-|   (cont.)    |   Not the same day, 1 day(s) after you slept.   |
+|    (cont.)   |   Not the same day, 1 day(s) after you slept.   |
 
 [Solution](solutions/9.Future_Time.py)
